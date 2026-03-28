@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Document Analyzer",
+  "description": "Upload a research paper in PDF format, and this tool will use AI to summarize its core components—such as the research topic, methodology, and conclusions—and present them in a clear table with supporting evidence from the text.",
+  "requestFramePermissions": []
+}
