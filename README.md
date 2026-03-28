@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Intelligent Document Analyzer
 
 一个用于分析和摘要文档的前端应用，支持上传 PDF/文本并通过模型服务生成摘要、分类和结构化信息。
