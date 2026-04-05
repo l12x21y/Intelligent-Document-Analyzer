@@ -33,7 +33,6 @@
 - 若使用其他模型服务，请在 `services/` 中调整 `geminiService.ts` 或添加新的服务适配层。
 - 自定义类别可编辑 `components/CustomCategories.tsx`。
 
-## 许可证
-根据仓库设定的许可证使用和分发本项目。
-
-如需帮助或报告问题，请在仓库中打开 Issue。
+## 访问
+- 1.0 version https://paper-processing-lxy.netlify.app/
+- 2.0 version https://pdf-analyzer-x.netlify.app/
